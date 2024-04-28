@@ -1,1 +1,5 @@
-# imdb_analysis
+![f55bcd04-2773-4f7e-b7c2-e151c5020d89](https://github.com/Goutammeena03/imdb_analysis/assets/125290702/67496cd7-d729-4727-baa0-f197290bc43a)
+![66fee431-7586-4bed-8afc-97ed8affad6a](https://github.com/Goutammeena03/imdb_analysis/assets/125290702/18f79849-eec9-426c-bb5b-468c84c7378b)
+![ae51d7af-c932-4c7f-ba2e-05b1935361f3](https://github.com/Goutammeena03/imdb_analysis/assets/125290702/cee61314-d4d1-4a0e-b85a-f65e73af2f6f)
+![19d33a2e-ea30-4b42-8d42-7c1de1103bae](https://github.com/Goutammeena03/imdb_analysis/assets/125290702/9dfcd6d2-e7d2-44fb-bb90-05a2542ed779)
+![11c311b5-8f1f-42aa-b1dc-e0a117f3ff12](https://github.com/Goutammeena03/imdb_analysis/assets/125290702/ae558811-fc0a-4d61-8af8-20f89c1ceaf7)
